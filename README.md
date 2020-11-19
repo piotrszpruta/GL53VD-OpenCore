@@ -4,12 +4,12 @@ Bootloader is tested with Catalina and BigSur, both of systems are working fine.
 
 ## What's working?
   
-  ✅ Intel Wifi card (Intel Dual Band Wireless-AC 7265 #MoreInfo) \
+  ✅ Intel Wifi card (Intel Dual Band Wireless-AC 7265 [#MoreInfo](#Wifi-Card)) \
   ✅ GPU (1050 vram is added as intel HD 630 vram) \
   ✅ Sound \
   ❎ Touchpad (probably not fixable) \
-  ❎ HDMI (#MoreInfo) \
-  ❎ IMessages and FaceTime (#MoreInfo)
+  ❎ HDMI ([#MoreInfo](#HDMI)) \
+  ❎ IMessages and FaceTime ([#MoreInfo](#IMessages-and-FaceTime))
   
   
 # MoreInfo
